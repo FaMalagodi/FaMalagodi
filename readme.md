@@ -1,4 +1,4 @@
-Currently studying systems development, knowledge of languages ​​such as JavaScript, React, Html and CSS, Python, C# and Kotlin
+Currently studying systems development, knowledge of languages ​​such as JavaScript, React, Html and CSS, Python, C#, Kotlin and Database Sql Sever
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
